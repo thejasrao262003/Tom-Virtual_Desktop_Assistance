@@ -11,7 +11,7 @@ import time
 
 chat_response = ''
 
-news_api_key = "d1fbefc02d2c4c25ac91ef82254a3abc"
+news_api_key = apikey
 
 print("Desktop Assistant Tom")
 def chat(prompt):
